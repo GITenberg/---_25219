@@ -1,0 +1,30 @@
+_repo: '---_25219'
+_version: 0.1.0
+alternative_title: Hua Yue Hen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wei, Zi'an
+    aliases:
+    - 魏子安
+    - Wei, Hsiu-jen
+    birthdate: 1819
+    deathdate: 1874
+    gutenberg_agent_id: '31130'
+    url: http://www.gutenberg.org/2009/agents/31130
+description: ''
+gutenberg_issued: '2008-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25219'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+title: 花月痕
+url: http://www.gutenberg.org/ebooks/25219
